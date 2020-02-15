@@ -218,7 +218,7 @@ Its a Screen-Keyboard.
 #include <WindowsConstants.au3>
 #include <EditConstants.au3>
 #Region ### START Koda GUI section ### Form=Videos
-$Form2 = GUICreate("Tastertur", 670, 353, 500, 114)
+$Form2 = GUICreate("Tastatur", 670, 353, 500, 114)
 $test6= GUICtrlCreateInput("", 10, 10, 650, 20)
 ;Normal klein
 $Neustes = GUICtrlCreateButton("1", 0, 44, 60, 51)
